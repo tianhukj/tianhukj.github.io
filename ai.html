@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <style>
+        /* 自定义悬浮入口的位置 */
+        #position_demo {
+            position: absolute;
+            right: 10px;
+            bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+<h1>Hello Bot</h1>
+<div id="position_demo"></div>
+    //{{version}} 为 Web SDK 的版本号，例如 0.1.0-beta.5。你可以在发布页面的安装代码中查看最新版本的version 
+<script src="https://lf-cdn.coze.cn/obj/unpkg/flow-platform/chat-app-sdk/1.0.0-beta.2/libs/cn/index.js"></script>
+<script>
+    const bot_id = '7390334698952196136';
+    // 自定义智能体名称和icon
+    const title = 'AI助手';
+    const icon = 'https://lf-bot-studio-plugin-resource.coze.cn/obj/bot-studio-platform-plugin-tos/artist/image/7e813aa2c7e14ebb9e2d1a989acfb128.png';
+    const lang = 'zh-CN';
+    const layout = 'pc';
+    const width = 800;
+    
+    new CozeWebSDK.WebChatClient({
+        config: {
+            bot_id,
+        },
+        componentProps: {
+            title,
+            icon,
+            width,
+        },
+        el: document.getElementById('position_demo'),
+    });
+</script>
+</body>
+</html>
