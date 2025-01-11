@@ -2,7 +2,7 @@
 
 ![logo](_media/icon.svg)
 
-# docsify <small>3.5</small>
+# MingJie <small>附件表</small>
 
 > A magical documentation site generator.
 
