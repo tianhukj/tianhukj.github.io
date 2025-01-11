@@ -2,7 +2,7 @@
 
 ![logo](_media/icon.svg)
 
-# MingJie <small>附件表</small>
+# MingJie <small>2025.1</small>
 
 > A magical documentation site generator.
 
@@ -10,5 +10,5 @@
 - No statically built html files
 - Multiple themes
 
-[GitHub](https://github.com/tianhukj/docs/)
+[GitHub](https://github.com/tianhukj/docs-cli/)
 [Get Started](#docsify)
