@@ -31,5 +31,6 @@
 **<font color="#FF725C">● 注意！请将附件先转存到自己网盘再下载！！避免文件被和谐！！！！</font>**
 
 # 01 Ascii Art
-part1 打开网址 [](https://www.asciiart.eu/text-to-ascii-art)
-part2嗯 输入你想生成的字
+part1 打开网址 [asciiart](https://www.asciiart.eu/text-to-ascii-art)
+
+part2 输入你想生成的字
