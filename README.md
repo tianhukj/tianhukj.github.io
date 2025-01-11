@@ -21,7 +21,7 @@
 
 ✓ **莫老师的主页：**
 
-🙂 [B站（首发） ](https://space.bilibili.com/1995424953)  😀[西瓜视频](https://www.ixigua.com/home/303878777609358)  🤣[抖音短视频](https://v.douyin.com/MYjf1JM/)  😉[快手短视频](https://v.kuaishou.com/mRpRYy)  🙃[微博](https://weibo.com/u/7826133162)  😆[YOUTUBE](https://www.youtube.com/@zxmls)
+🙂 [B站（首发） ](https://space.bilibili.com/1995424953)  😀[西瓜视频](https://www.ixigua.com/home/303878777609358)  🤣[抖音短视频](https://v.douyin.com/MYjf1JM/)  😉[快手短视频](https://v.kuaishou.com/mRpRYy)  🙃[微博](https://weibo.com/u/7826133162)  
 
 ##### ○ <font color="#DB7093">岳老师开通粉丝群啦，但又被封啦！诶就是玩儿（[👉请戳这里👈](https://ooo.0x0.ooo/2024/05/04/OplMkB.jpg)）</font>
 
