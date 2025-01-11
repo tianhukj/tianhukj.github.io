@@ -26,8 +26,10 @@
 ##### ○ <font color="#DB7093">岳老师开通粉丝群啦，但又被封啦！诶就是玩儿（[👉请戳这里👈](https://ooo.0x0.ooo/2024/05/04/OplMkB.jpg)）</font>
 
 
-
 **<font color="#00CAE1">● 提示：如有失效附件，请务必通过私信反馈给我！！！</font>**
 
 **<font color="#FF725C">● 注意！请将附件先转存到自己网盘再下载！！避免文件被和谐！！！！</font>**
 
+# 01 Ascii Art
+part1 打开网址 [](https://www.asciiart.eu/text-to-ascii-art)
+part2嗯 输入你想生成的字
