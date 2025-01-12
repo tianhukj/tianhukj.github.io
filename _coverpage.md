@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
-[![OEjAIM.th.png](https://ooo.0x0.ooo/2025/01/12/OEjAIM.th.png)](https://img.tg/image/OEjAIM)
-![Logo](https://ooo.0x0.ooo/2025/01/12/OEjAIM.png)
+
+![Logo](https://ooo.0x0.ooo/2025/01/12/OEjAIM.th.png)
 
 # MingJie <small>2025.1</small>
 
