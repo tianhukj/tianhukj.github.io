@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](_media/icon.svg)
+![Logo](https://ooo.0x0.ooo/2025/01/12/OEjAIM.png)
 
 # MingJie <small>2025.1</small>
 
