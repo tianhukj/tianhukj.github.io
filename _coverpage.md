@@ -11,4 +11,4 @@
 - Multiple themes
 
 [GitHub](https://github.com/tianhukj/docs-cli/)
-[Get Started](#docsify)
+[Get Started](README-OV-FILE.md)
