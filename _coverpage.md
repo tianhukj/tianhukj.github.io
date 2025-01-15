@@ -1,10 +1,10 @@
 <!-- _coverpage.md -->
 
-![Logo](https://ooo.0x0.ooo/2025/01/12/OEjAIM.th.png)
+![Logo](https://ooo.0x0.ooo/2025/01/15/OE3Nmt.th.png)
 
 # MingJie <small>2025.1</small>
 
-> A magical documentation site generator.
+> A practical toolbox.
 
 - Simple and lightweight
 - No statically built html files
