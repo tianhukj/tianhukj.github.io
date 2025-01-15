@@ -6,9 +6,9 @@
 
 > A practical toolbox.
 
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
+- No need for complex operations
+- Rich toolbox content
+- Multiple contents
 
 [GitHub](https://github.com/tianhukj/docs-cli/)
 [Get Started](README.md)
