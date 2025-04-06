@@ -19,7 +19,7 @@
 
 ✓ 什么？你还不知道可以方便的在这里查阅并下载每期视频的附件？
 
-✓ **莫老师的主页：**
+✓ **岳老师的主页：**
 
 🙂 [B站（首发） ](https://space.bilibili.com/1995424953)  😀[西瓜视频](https://www.ixigua.com/home/303878777609358)  🤣[抖音短视频](https://v.douyin.com/MYjf1JM/)  😉[快手短视频](https://v.kuaishou.com/mRpRYy)  🙃[微博](https://weibo.com/u/7826133162)  
 
@@ -32,7 +32,4 @@
 
 
 
-
-
-
-<a href="https://icp.gov.moe/?keyword=20256008" target="_blank">萌ICP备20256008号</a>
+<center><a href="https://icp.gov.moe/?keyword=20256008" target="_blank">萌ICP备20256008号</a><center>
