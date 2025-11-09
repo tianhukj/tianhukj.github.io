@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![Logo](https://youke1.picui.cn/s1/2025/11/09/6910839f301f7.png)
+[![7i5OPh.th.png](https://i.imgs.ovh/2025/11/09/7i5OPh.th.png)](https://imgloc.com/image/7i5OPh)
 
 # 天互文档 <small>2025.11</small>
 
