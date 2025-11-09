@@ -1,5 +1,5 @@
 // 起始日期（年-月-日）
-const startDate = new Date('2025-11-8');
+const startDate = new Date('2025-11-08');
 
 // 更新时间显示的函数
 function updateUptime() {
