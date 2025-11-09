@@ -43,3 +43,49 @@ graph TD
 - 配置核心：MCP（Module Configuration Protocol）
 - 开发语言：JavaScript/TypeScript
 - 配套工具：Node.js ≥ 16.x、npm ≥ 8.x
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>修复版渐变加粗艺术字</title>
+    <style>
+        body {
+            background: #f5f5f5;
+            padding: 30px;
+            display: flex;
+            justify-content: center;
+        }
+        .art-text {
+            font-family: "Courier New", monospace;
+            font-size: 16px;
+            font-weight: bold;
+            line-height: 1.2;
+        }
+        /* 逐行渐变（蓝→紫） */
+        .line1 { color: #4285f4; }
+        .line2 { color: #5c6bc0; }
+        .line3 { color: #7986cb; }
+        .line4 { color: #9575cd; }
+        .line5 { color: #b39ddb; }
+        .line6 { color: #ce93d8; }
+        .line7 { color: #e1bee7; }
+    </style>
+</head>
+<body>
+<pre class="art-text">
+<span class="line1">_________  ___  ________  ________   ___  ___  ___  ___          ________  ________  ________  ________      </span>
+<span class="line2">|\___   ___\\  \|\   __  \|\   ___  \|\  \|\  \|\  \|\  \        |\   ___ \|\   __  \|\   ____\|\   ____\     </span>
+<span class="line3">\|___ \  \_\ \  \ \  \|\  \ \  \\ \  \ \  \\\  \ \  \\\  \       \ \  \_|\ \ \  \|\  \ \  \___|\ \  \___|_    </span>
+<span class="line4">     \ \  \ \ \  \ \   __  \ \  \\ \  \ \   __  \ \  \\\  \       \ \  \ \\ \ \  \\\  \ \  \    \ \_____  \   </span>
+<span class="line5">      \ \  \ \ \  \ \  \ \  \ \  \\ \  \ \  \ \  \ \  \\\  \       \ \  \_\\ \ \  \\\  \ \  \____\|____|\  \  </span>
+<span class="line6">       \ \__\ \ \__\ \__\ \__\ \__\\ \__\ \__\ \__\ \_______\       \ \_______\ \_______\ \_______\____\_\  \ </span>
+<span class="line7">        \|__|  \|__|\|__|\|__|\|__| \|__|\|__|\|__|\|_______|        \|_______|\|_______|\|_______|\_________\</span>
+<span class="line7">                                                                                                  \|_________|</span>
+</pre>
+</body>
+</html>
