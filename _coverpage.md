@@ -10,5 +10,5 @@
 - 从0到1
 - 功能齐全
 
-[GitHub](https://github.com/tianhukj/docs-cli/)
+[GitHub](https://github.com/tianhukj/tianhukj.github.io)
 [Get Started](README.md)
