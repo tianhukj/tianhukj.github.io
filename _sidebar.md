@@ -1,5 +1,4 @@
--教程
-  - [简介](README.md)
+ - [简介](README.md)
     - [模型配置](models.md)
     - [Trea中的MCP配置](Trea中MCP配置.md)
     - [【入门】点阵字生成器](1.【入门】点阵字生成器.md)
