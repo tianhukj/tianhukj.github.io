@@ -176,9 +176,7 @@
 &nbsp;       我们可以使用下面这个命令来创建一个Conda的虚拟环境。
 
 ```bash
-`conda create --name test python=3.8`
-
-运行项目并下载源码bash
+conda create --name test python=3.8
 ```
 
 &nbsp; 这里的conda就表示的conda，create是conda创建环境指令，--name是一个选项，我们可以为我们的虚拟环境命名，紧跟的test就是我们创建的虚拟环境名字了，后面的python=3.8表示我们想创建一个python版本为3.8的虚拟环境。输入上面命令以后回车。
@@ -196,9 +194,7 @@
 &nbsp;       我们要进入环境首先要初始化conda我们输入下面的命令来初始化conda。
 
 ```bash
-`conda init`
-
-运行项目并下载源码bash
+conda init
 ```
 
 ![](https://i-blog.csdnimg.cn/direct/649e1a8cc1cb4f83a42c820c04c87a9b.png)
@@ -206,9 +202,8 @@
 看到有以下输出就表示初始化完成了。输入下面的命令回车就能进入虚拟环境了。
 
 ```bash
-`conda activate test`
+conda activate test
 
-运行项目并下载源码bash
 ```
 
 ![](https://i-blog.csdnimg.cn/direct/c0ce8498b3ad4328a891f9dc3c1e6684.png)
@@ -218,9 +213,8 @@
 我们也可以输入下面的命令来退出当前所在的虚拟环境。
 
 ```bash
-`conda deactivate`
+conda deactivate
 
-运行项目并下载源码bash
 ```
 
 ![](https://i-blog.csdnimg.cn/direct/e89a7ba872d7424d8a01d41e92f81097.png)
@@ -230,9 +224,8 @@
 我们可以使用下面的命令来删除虚拟环境。
 
 ```bash
-`conda remove -n test --all`
+conda remove -n test --all
 
-运行项目并下载源码bash
 ```
 
 这里的test也是我们虚拟环境的名字。输入指令回车以后会出现
