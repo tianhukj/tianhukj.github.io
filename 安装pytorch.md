@@ -1,7 +1,6 @@
 # \[python\]如何正确的安装pytorch?(详细)
 
 
-版权声明：本文为博主原创文章，遵循 [CC 4.0 BY-SA](http://creativecommons.org/licenses/by-sa/4.0/) 版权协议，转载请附上原文出处链接和本声明。
 
 
 ### 一、我们为什么需要安装pytorch?
@@ -223,7 +222,7 @@ AI写代码
 ```cobol
 `pip install torch==2.0.0 torchvision==0.15.1 torchaudio==2.0.1 --index-url https://download.pytorch.org/whl/cu118`
 
-AI写代码
+
 ```
 
 我们需要将这段下载代码后半部分的“--index-url https://download.pytorch.org/whl/cu118”删除，替换为下面的代码：
@@ -231,7 +230,7 @@ AI写代码
 ```cobol
 `-f https://mirrors.aliyun.com/pytorch-wheels/cu118`
 
-AI写代码
+
 ```
 
 替换完成以后，我们的下载代码变成了：
@@ -239,7 +238,7 @@ AI写代码
 ```cobol
 `pip install torch==2.0.0 torchvision==0.15.1 torchaudio==2.0.1 -f https://mirrors.aliyun.com/pytorch-wheels/cu118`
 
-AI写代码
+
 ```
 
 这里的“-f”是“--find-links”的缩写，表示从下面的链接去寻找要下载的包，-f的后面跟着的就是阿里云touch源的地址。
@@ -260,7 +259,7 @@ torch.cuda.is_available()
 
 
 
-AI写代码
+
 ```
 
 这里注意，是依次输入，输入一次回车一次。当返回“True”时就表示pytorch已经安装成功了。
@@ -282,7 +281,7 @@ python安装：[\[python\]我们应该如何正确的安装和卸载python？(�
 ```cobol
 `conda create -n pytorch python=3.8`
 
-AI写代码
+
 ```
 
 这里我们创建了一个名为pytorch的虚拟环境，并且指定了python版本为python3.8.
@@ -292,7 +291,7 @@ AI写代码
 ```undefined
 `conda activate pytorch`
 
-AI写代码
+
 ```
 
 ![](https://i-blog.csdnimg.cn/direct/2c8ce2fa1e0a4b38aa12216c386164c6.png)
@@ -319,7 +318,7 @@ print(torch.__version__)
 
 
 
-AI写代码
+
 ```
 
 注意这里的命令都是依次输入，输入一次回车一次，运行后就能出现pytorch的版本+CPU
@@ -343,3 +342,7 @@ AI写代码
 &nbsp;
 
 &nbsp;
+
+-------
+版权声明：本文为博主原创文章，遵循 [CC 4.0 BY-SA](http://creativecommons.org/licenses/by-sa/4.0/) 版权协议，原文链接
+https://blog.csdn.net/c858845275/article/details/140966947
