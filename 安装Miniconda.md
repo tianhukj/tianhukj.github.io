@@ -1,34 +1,5 @@
 # \[python\]我们应该如何安装Miniconda虚拟环境？（详细）
 
-![](https://i-operation.csdnimg.cn/images/cf31225e169b4512917b2e77694eb0a2.png)安装Miniconda虚拟环境
-
-原创 已于 2025-05-24 23:43:04 修改 · 6.7k 阅读
-
-· ![](https://csdnimg.cn/release/blogv2/dist/pc/img/newHeart2023Active.png)![](https://csdnimg.cn/release/blogv2/dist/pc/img/newHeart2023Black.png) 46
-
-· ![](https://csdnimg.cn/release/blogv2/dist/pc/img/tobarCollect2.png)![](https://csdnimg.cn/release/blogv2/dist/pc/img/tobarCollectionActive2.png) 69 ·
-
-CC 4.0 BY-SA版权
-
-版权声明：本文为博主原创文章，遵循 [CC 4.0 BY-SA](http://creativecommons.org/licenses/by-sa/4.0/) 版权协议，转载请附上原文出处链接和本声明。
-
-文章标签：
-
-[#python](https://so.csdn.net/so/search/s.do?q=python&t=all&o=vip&s=&l=&f=&viparticle=&from_tracking_code=tag_word&from_code=app_blog_art) [#conda](https://so.csdn.net/so/search/s.do?q=conda&t=all&o=vip&s=&l=&f=&viparticle=&from_tracking_code=tag_word&from_code=app_blog_art) [#开发语言](https://so.csdn.net/so/search/s.do?q=%E5%BC%80%E5%8F%91%E8%AF%AD%E8%A8%80&t=all&o=vip&s=&l=&f=&viparticle=&from_tracking_code=tag_word&from_code=app_blog_art)
-
-于 2024-08-03 17:02:48 首次发布
-
- ![](https://i-blog.csdnimg.cn/devpress/blog/fa5b7f5f965f4367ade5bccd3aa40c8b.png) 魔乐社区 文章已被社区收录
-
-加入社区
-
- [![](https://i-blog.csdnimg.cn/direct/34b198f002784c8f930f590c470b48c9.jpeg?x-oss-process=image/resize,m_fixed,h_224,w_224) python 专栏收录该内容](https://blog.csdn.net/c858845275/category_12744533.html "python")
-
-7 篇文章
-
-订阅专栏
-
-该文章已生成可运行项目，预览并下载项目源码
 
 ### 一、什么是Conda?
 
@@ -308,6 +279,6 @@ CC 4.0 BY-SA版权
 
 &nbsp;
 
-本文章已经生成可运行项目 一键运行
-
-生成项目 ![查看更多](https://csdnimg.cn/release/blogv2/dist/pc/img/btnInscodeAiAskWhite.png)
+------
+转载至https://blog.csdn.net/c858845275/article/details/140871564
+CC 4.0 BY-SA版权
