@@ -3,15 +3,15 @@
 <p align="center">
   <img src="demo.jpg" width="90%"/>
   <br><br>
-  <img src="https://raw.githubusercontent.com/ultralytics/assets/main/yolov8/banner-ultralytics.png" width="600"/>
+  <img src="https://youke1.picui.cn/s1/2025/11/25/6925a6d2f0dc8.jpg" width="600"/>
   <br>
   <b>训练已完成 · 模型已就绪 · 双击即跑 · 帅到飞起 😎</b>
 </p>
 
 ## 检测效果三连击 😍
 
-| 正确佩戴 ✅<br><img src="https://img.shields.io/badge/检测-mask-brightgreen" alt="mask"> | 未佩戴 ❌<br><img src="https://img.shields.io/badge/检测-no_mask-red" alt="no_mask"> | 佩戴不规范 ⚠️<br><img src="https://img.shields.io/badge/检测-incorrect-orange" alt="incorrect"> |
-|------------------------------------------------------------|---------------------------------------------------------------------|-------------------------------------------------------------------------|
+| 正确佩戴 ✅<br><img src="https://img.shields.io/badge/检测-mask-brightgreen" alt="mask"> | 未佩戴 ❌<br><img src="https://img.shields.io/badge/检测-no_mask-red" alt="no_mask"> |
+|------------------------------------------------------------|---------------------------------------------------------------------|
 
 ## 核心优势（一眼心动）
 
