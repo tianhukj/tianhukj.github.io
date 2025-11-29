@@ -12,14 +12,14 @@
 
 <div class="mermaid">
 graph TD
-A[基础指引] --> A1(简介)
-A --> A2(快速开始)
-B[开发配置] --> B1(模型配置)
-B --> B2(Trea中MCP配置)
-C[开发指南] --> C1(开始开发)
-D[实战项目] --> D1(【入门】点阵字生成器)
-D --> D2(【进阶】学生管理系统)
-D --> D3(【实战】核酸检测系统)
+    A[基础指引] --> A1(简介)
+    A --> A2(快速开始)
+    B[开发配置] --> B1(模型配置)
+    B --> B2(Trea中MCP配置)
+    C[开发指南] --> C1(开始开发)
+    D[实战项目] --> D1(【入门】点阵字生成器)
+    D --> D2(【进阶】学生管理系统)
+    D --> D3(【实战】核酸检测系统)
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/mermaid@10.0.0/dist/mermaid.min.js"></script>
