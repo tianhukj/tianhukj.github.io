@@ -1,4 +1,4 @@
-# 天互文档站 ，Trea 实战项目文档站 🚀
+# Trea 实战项目文档站 🚀
 
 > 基于 Trea 框架的 **从入门到实战** 全栈开发指南，通过三个递进式项目，掌握 MCP 配置、模型设计与实际业务落地。
 
@@ -9,7 +9,8 @@
 - 实际业务场景问题解决
 
 ## 文档结构
-```mermaid
+
+<div class="mermaid">
 graph TD
     A[基础指引] --> A1(简介)
     A --> A2(快速开始)
@@ -19,7 +20,10 @@ graph TD
     D[实战项目] --> D1(【入门】点阵字生成器)
     D --> D2(【进阶】学生管理系统)
     D --> D3(【实战】核酸检测系统)
-```
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/mermaid@10.0.0/dist/mermaid.min.js"></script>
+
 
 ## 适用人群
 - 前端/后端开发者（零基础友好）
