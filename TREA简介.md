@@ -10,8 +10,10 @@
 
 ## 文档结构
 
-<div class="mermaid">
-graph TD
+<!-- 直接复制到MD文件中，用浏览器打开该MD（或支持HTML的编辑器预览）即可渲染 -->
+<div style="width: 100%; max-width: 900px; margin: 0 auto;">
+  <div class="mermaid">
+    graph TD
     A[基础指引] --> A1(简介)
     A --> A2(快速开始)
     B[开发配置] --> B1(模型配置)
@@ -20,9 +22,19 @@ graph TD
     D[实战项目] --> D1(【入门】点阵字生成器)
     D --> D2(【进阶】学生管理系统)
     D --> D3(【实战】核酸检测系统)
+  </div>
+
+  <!-- 引入Mermaid脚本（确保离线也能渲染，兼容多数MD编辑器） -->
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@10.0.0/dist/mermaid.min.js"></script>
+  <script>
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: 'neutral',
+      flowchart: { nodeSpacing: 20, rankSpacing: 40 }
+    });
+  </script>
 </div>
 
-<script src="https://cdn.jsdelivr.net/npm/mermaid@10.0.0/dist/mermaid.min.js"></script>
 
 
 ## 适用人群
