@@ -6,7 +6,7 @@
     - [【进阶】学生管理系统](2.【进阶】学生管理系统.md)
     - [【实战】核酸检测系统](3.【实战】核酸检测系统.md)
  -  [YOLO训练](YOLO简介.md)
-    - [YOLO模型转换](YOLO模型转换.md)  
+    - [YOLO模型转换](YOLO模型转换教程.md)  
     - [Miniconda安装](安装Miniconda.md)
     - [pytorch安装](安装pytorch.md)
     - [【入门】基础使用](基础使用.md)
