@@ -34,12 +34,16 @@ yolo checks
 *   **GPU**: 推荐 NVIDIA RTX 3060 或更高 (训练速度快 10-100 倍)。
 *   **CPU**: 仅用于调试，不建议用于完整训练。
 
-> [!WARNING]  
-> 必须确保：  
-> - CUDA 11.8 / 12.1  
-> - PyTorch ≥ 2.0 + CUDA 支持  
-> - ultralytics ≥ 8.2.0  
-> 不匹配直接报错或 OOM！
+ <div style="background-color: #fff5f5; border-left: 4px solid #dc2626; padding: 1rem; border-radius: 4px; margin: 1rem 0; box-shadow: 0 1px 2px rgba(0,0,0,0.05);">
+   <span style="color: #dc2626; font-weight: bold; text-transform: uppercase; margin-right: 0.5rem;">⚠️ WARNING</span>
+   必须确保：
+   <ul style="margin: 0.5rem 0 0 1.5rem; padding: 0;">
+     <li>CUDA 11.8 / 12.1</li>
+     <li>PyTorch ≥ 2.0 + CUDA 支持</li>
+     <li>ultralytics ≥ 8.2.0</li>
+   </ul>
+ </div>
+ 
 ---
 
 ## 2. 📂 数据集构建
@@ -97,9 +101,13 @@ names:
   1: 'bicycle'   # id 1
   2: 'car'       # id 2
 ```
-> [!NOTE]
-> 建议直接写绝对路径彻底避免相对路径陷阱  
-> 示例：`path: /home/username/MyDataset`
+ <div style="background-color: #ecfdf5; border-left: 4px solid #059669; padding: 1rem; border-radius: 4px; margin: 1rem 0; box-shadow: 0 1px 2px rgba(0,0,0,0.05);">
+   <span style="color: #059669; font-weight: bold; text-transform: uppercase; margin-right: 0.5rem;">📌 NOTE</span>
+   补充说明：
+   <ul style="margin: 0.5rem 0 0 1.5rem; padding: 0;">
+     <li>建议直接写绝对路径</li>
+   </ul>
+ </div>
 
 ---
 
